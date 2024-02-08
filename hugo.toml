@@ -1,0 +1,4 @@
+baseURL = 'https://qwnwzzo.github.io/earth/'
+languageCode = 'en-us'
+title = 'Algo Competition'
+theme = 'hugo-book'
